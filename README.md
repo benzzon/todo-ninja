@@ -1,4 +1,4 @@
-# todo-ninja
+# todo-ninja (THIS PROJECT USES VUE2)
 
 ## Project setup
 ```
